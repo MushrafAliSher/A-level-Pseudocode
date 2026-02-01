@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Mushraf Tutor - Cambridge 9618 IDE",
+  "description": "A high-performance multimodal IDE and academic tutor for 9618 Pseudocode. Analyze flowcharts and trace tables with AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
